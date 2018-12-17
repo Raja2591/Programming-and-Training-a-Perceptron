@@ -1,6 +1,6 @@
 # Programming and Training a Perceptron
 
-I have been taking this online course https://www.udemy.com/machine-learning-with-unity/ taught by Dr Penny de Byl. The course is really good if you want to learn about Machine Learning and Game development using Unity Game Engine.
+I have been taking this online course https://www.udemy.com/machine-learning-with-unity/ taught by Dr. Penny de Byl. The course is really good if you want to learn about Machine Learning and Game development using Unity Game Engine.
 
 # What is included in the repository?
 
