@@ -8,3 +8,9 @@ I learned how to program and train a perceptron. We have a character and we trai
 
 
 ![](greencube.png)
+
+![](redcube.png)
+
+![](greensphere.png)
+
+![](redsphere.png)
